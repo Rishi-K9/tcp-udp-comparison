@@ -65,3 +65,7 @@ TCP is appropriate when reliable and ordered delivery is essential. UDP is often
 - [Wireshark Official Website](https://www.wireshark.org/)
 - [RFC 9293: Transmission Control Protocol (TCP)](https://www.rfc-editor.org/rfc/rfc9293)
 - [RFC 768: User Datagram Protocol (UDP)](https://www.rfc-editor.org/rfc/rfc768)
+
+## Rollback Verification Test
+
+This temporary section is used to verify the Git-based rollback procedure.
